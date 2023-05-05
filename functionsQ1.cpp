@@ -8,7 +8,7 @@ int largest(int a,int b,int c){
 		if(c>max){
 			max=c;
 		}
-		return max;
+		return max; 
 	}
 int smallest(int a,int b,int c){
 		int min=a;
