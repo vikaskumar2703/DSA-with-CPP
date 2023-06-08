@@ -32,3 +32,6 @@ int main(){
 
 	return 0;
 }
+
+// incase of creating a for loop for counting it is better to use count_if part of algorithm module.
+// auto numVowels{count_if(begin(name),end(name),<condition>isVowel)}
